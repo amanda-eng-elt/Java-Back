@@ -1,3 +1,4 @@
+package edu.amanda.sintaxejava;
 public class ImprimaNome {
 
     public static void main(String[] args) {
